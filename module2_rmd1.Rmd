@@ -124,3 +124,22 @@ knitr::kable(head(cars),
 ## Insert an equation
 
 $$ Y = \beta_0 + \beta_1x $$
+
+## Insert images
+
+here is an image inserted
+
+![sunstar](sunstar.png)
+Here is the R logo from url:
+![r logo](https://www.r-project.org/logo/Rlogo.svg)
+
+## Insert text with footnotes
+
+Here is footnote reference [^1] and another one [^longnote]
+Here is an inline footnote ^[write your notes here]
+
+[^1]: here is the first note
+[^longnote]: here is the long notes
+
+
+
